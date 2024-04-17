@@ -2,7 +2,7 @@
 
 
 const isUpperCase = (char) => {
-//    if(char.charCodeAt(0) >= 65 && char.charCodeAt(0) <= 90){
+//    if(char.charCodeAt(0) >= 65 &&   char.charCodeAt(0) <= 90){
 //     return true;
 //    }
 //    return false;
